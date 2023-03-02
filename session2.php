@@ -7,6 +7,6 @@
     session_destroy();
 
     echo "I changed a code";
-    
+
 
 ?>
