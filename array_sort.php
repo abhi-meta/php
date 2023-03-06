@@ -1,4 +1,8 @@
 <?php 
+
+
+
+    //this code is for master 
     $array = [1,4,2,5,67,3,1];
     function print_array($array){
         foreach($array as $ele){
@@ -15,5 +19,7 @@
     rsort($array);
     echo ("Reverse Sorted array : ");
     print_array($array);  
+
+
 
 ?>
