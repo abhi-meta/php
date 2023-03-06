@@ -15,6 +15,5 @@
     rsort($array);
     echo ("Reverse Sorted array : ");
     print_array($array);  
-    
 
 ?>
