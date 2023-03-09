@@ -41,8 +41,5 @@
 </body>
 </html>
 
-<<<<<<< HEAD
 <!-- abhinav master branch -->
-=======
 <!-- feature abhinav branch -->
->>>>>>> feature/2.1
